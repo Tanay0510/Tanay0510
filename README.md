@@ -1,7 +1,6 @@
 ### Hello World 👋
 
 
-**Tanay0510/Tanay0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a data nerd and exploring the beautiful world of data science and analytics. 
 
