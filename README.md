@@ -13,5 +13,6 @@ I'm a data nerd and exploring the beautiful world of data science and analytics.
 
 
 
-Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
-Visit [Tanay Bhardwaj](https://tanaybhardwaj.com)
+- Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
+
+- Visit [Tanay Bhardwaj](https://tanaybhardwaj.com)
