@@ -8,8 +8,9 @@ I'm a data nerd and exploring the beautiful world of data science and analytics.
 - 🌱 I’m currently learning about Python, Dash, ML Model Deployment 
 -  ⚡ I'm intereseted in Data Visualization, Statistics
 - 💬 Ask me about data science, analytics, cricket
-- 📫 Reach me at : tnay1995@gmail.com
 - ⚡ Fun fact: I am an INFJ
+- 📫 Reach me at : tnay1995@gmail.com
+
 
 
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
