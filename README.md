@@ -2,7 +2,7 @@
 
 
 - 🔭 I recently completed my Master's in Business Analytics from Rochester Institute of Technology, Rochester 
-- 🌱 I’m currently learning about ML Model Deployment 
+- 🌱 I’m currently learning about Data Engineering
 -  ⚡ I'm intereseted in Data Science & Statistics
 - 💬 Ask me about data science, analytics
 - ⚡ Fun fact: I am an INFJ
