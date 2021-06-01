@@ -14,8 +14,7 @@
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
 - 👾 Visit [Tanay Bhardwaj](https://tanaybhardwaj.com)
 
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay0510)](https://github.com/anuraghazra/github-readme-stats)
+![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay0510&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay0510&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay0510&show_icons=true&theme=radical)
