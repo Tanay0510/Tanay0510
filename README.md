@@ -24,8 +24,3 @@
 <a href="https://github.com/Tanay0510/Humana-Competition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanay0510&repo=Humana-Competition" />
 </a>
-
-
-
-
-If you find my work good, consider giving it a ⭐ to show some ❤️!
