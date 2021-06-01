@@ -1,6 +1,5 @@
 ### Hello World 👋
 
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay0510)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I recently completed my Master's in Business Analytics from Rochester Institute of Technology, Rochester 
@@ -14,3 +13,7 @@
 
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
 - 👾 Visit [Tanay Bhardwaj](https://tanaybhardwaj.com)
+
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay0510)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay0510&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
