@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning about Data Engineering
 -  ⚡ I'm intereseted in Data Science & Data Engineering
 - 💬 Ask me about data science, analytics
-- ⚡ Fun fact: I am an INFJ
-- 📫 Reach me at : tnay1995@gmail.com
+
 
 #### 👨🏻‍💻 Languages and Tools: <br />
   <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.43.27%20PM.png"></code>
@@ -20,11 +19,12 @@
   <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.53.57%20PM.png"></code>
 
 
-  
-
-- 🤝 Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
-- 👾 Visit [Tanay Bhardwaj](https://tanaybhardwaj.com)
-
 ![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay0510&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay0510&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+- ⚡ Fun fact: I am an INFJ
+- 📫 Reach me at : tnay1995@gmail.com
+
+- 🤝 Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
+- 👾 Visit [Tanay Bhardwaj](https://tanaybhardwaj.com)
