@@ -1,8 +1,5 @@
 ### Hello World 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay0510)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 - 🔭 I recently completed my Master's in Business Analytics from Rochester Institute of Technology, Rochester 
