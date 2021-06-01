@@ -4,7 +4,7 @@
 
 - 🔭 I recently completed my Master's in Business Analytics from Rochester Institute of Technology, Rochester 
 - 🌱 I’m currently learning about Data Engineering
--  ⚡ I'm intereseted in Data Science & Statistics
+-  ⚡ I'm intereseted in Data Science & Data Engineering
 - 💬 Ask me about data science, analytics
 - ⚡ Fun fact: I am an INFJ
 - 📫 Reach me at : tnay1995@gmail.com
