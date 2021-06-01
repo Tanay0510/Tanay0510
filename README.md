@@ -21,6 +21,6 @@
 <a href="https://github.com/Tanay0510/Data-Pipeline-with-Airflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanay0510&repo=Data-Pipeline-with-Airflow" />
 </a>
-<a href="https://github.com/Tanay0510/Humana-Competition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanay0510&repo=Humana-Competition" />
+<a href="https://github.com/Tanay0510/New-York-City-Yellow-Taxi-Time-Series-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanay0510&repo=New-York-City-Yellow-Taxi-Time-Series-Analysis" />
 </a>
