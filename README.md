@@ -11,11 +11,15 @@
 - 📫 Reach me at : tnay1995@gmail.com
 
 #### 👨🏻‍💻 Languages and Tools: <br />
-  <code><img height="40" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.43.27%20PM.png"></code>
-  <code><img height="40" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.44.15%20PM.png"></code>
-  <code><img height="40" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.44.51%20PM.png"></code>
-  <code><img height="40" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.45.36%20PM.png"></code>
-  <code><img height="40" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.46.32%20PM.png"></code>
+  <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.43.27%20PM.png"></code>
+  <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.44.15%20PM.png"></code>
+  <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.44.51%20PM.png"></code>
+  <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.45.36%20PM.png"></code>
+  <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.46.32%20PM.png"></code>
+  <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.52.18%20PM.png"></code>
+  <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.53.57%20PM.png"></code>
+
+
   
 
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
