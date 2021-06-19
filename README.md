@@ -22,7 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay0510&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Fun fact: I am an INFJ
 - 📫 Reach me at : tnay1995@gmail.com
 
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/tanaybhardwaj/">LinkedIn.</a>
