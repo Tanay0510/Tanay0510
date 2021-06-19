@@ -5,7 +5,7 @@
 
 - 🔭 I recently completed my Master's in Business Analytics from Rochester Institute of Technology, Rochester 
 - 🌱 I’m currently learning about Data Engineering
--  ⚡ I'm intereseted in Data Science & Data Engineering
+-  ⚡ I'm interested in Data Science & Data Engineering
 
 
 #### 👨🏻‍💻 Languages and Tools: <br />
