@@ -18,9 +18,12 @@
   <code><img height="60" src="https://github.com/Tanay0510/Tanay0510/blob/main/Images/Screen%20Shot%202021-05-31%20at%209.53.57%20PM.png"></code>
 
 
-![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay0510&show_icons=true&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanay0510&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanay0510&theme=tokyonight" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay0510&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 📫 Reach me at : tnay1995@gmail.com
 
